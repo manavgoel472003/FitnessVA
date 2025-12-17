@@ -1,0 +1,36 @@
+{
+  "timestamp_utc": "2025-12-15T04:50:50Z",
+  "model_id": "Qwen/Qwen2.5-3B-Instruct",
+  "queries": [
+    "Create a 4-day workout split for strength",
+    "Good warm-up or practices before today's lift?"
+  ],
+  "results": [
+    {
+      "mode": "advanced_on",
+      "responses": [
+        {
+          "query": "Create a 4-day workout split for strength",
+          "answer": "- Overview\n- Focus on building strength and definition through compound movements targeting major muscle groups. Emphasize progressive overload and proper form to prevent injuries.\n- Guidance\n- Use gym equipment like barbells and dumbbells. Prioritize form over weight initially. Incorporate both compound and isolation exercises.\n- Plan\n- **Day 1**: Chest & Back (compound): Barbell Bench Press (3x8), Pull-Ups (3x8), Bent Over Rows (3x8)\n- **Day 2**: Legs & Shoulders (compound): Squats (3x8), Leg Press (3x8), Military Press (3x8)\n- **Day 3**: Arms & Core (compound): Bicep Curls (3x10), Tricep Dips (3x10), Lat Pulldowns (3x10)\n- **Day 4**: Full Body (compound): Deadlift (3x8), Push-Ups (3x15), Pull-Ups (3x10)\n- Safety\n- Listen to your body. Avoid sharp pain during exercises. Warm up before workouts. Adjust weights and reps based on your ability to maintain proper form.\n- Disclaimer\n- This plan is not a substitute for professional medical advice. Always consult a healthcare provider before starting any new exercise program."
+        },
+        {
+          "query": "Good warm-up or practices before today's lift?",
+          "answer": "1) Overview\n- Prepares muscles for heavy lifting.\n- Ensures proper form and reduces injury risk.\n2) Guidance\n- Dynamic stretches: leg swings, arm circles, torso twists.\n- Light weightlifting: goblet squats, bodyweight rows.\n3) Safety\n- Avoid sharp pain during exercises.\n- Adjust intensity based on your body's response.\n- Maintain proper form at all times.\n4) Disclaimer\nThis does not replace professional medical advice."
+        }
+      ]
+    },
+    {
+      "mode": "advanced_off",
+      "responses": [
+        {
+          "query": "Create a 4-day workout split for strength",
+          "answer": "# 4-Day Strength Training Plan ## Overview This 4-day strength training plan is tailored for Manav, a 22-year-old male aiming to build strength and muscle definition. Each session focuses on progressive overload, proper form, and gradual progression. ## Weekly Workout Schedule ### Monday: Chest and Back - **Warm-up:** 5 minutes of light cardio followed by dynamic stretches. - **Barbell Bench Press:** 3 sets of 6-8 reps - **Incline Dumbbell Press:** 3 sets of 6-8 reps - **Pull-Ups:** 3 sets of 6-8 reps - **Lat Pulldown:** 3 sets of 6-8 reps - **Tricep Pushdown:** 3 sets of 10-12 reps - **Bent Over Barbell Row:** 3 sets of 6-8 reps - **Seated Cable Row:** 3 sets of 6-8 reps ### Wednesday: Legs and Abs - **Warm-up:** 5 minutes of light cardio followed by dynamic stretches. - **Barbell Squat:** 4 sets of 6-8 reps - **Leg Press:** 3 sets of 6-8 reps - **Romanian Deadlift:** 3 sets of 6-8 reps - **Calf Raise:** 3 sets of 15-20 reps - **Plank:** 3 sets of 30 seconds - **Russian Twists:** 3 sets of 15 reps per side - **Leg Curls:** 3 sets of 10-12 reps ### Friday: Arms and Shoulders - **Warm-up:** 5 minutes of light cardio followed by dynamic stretches. - **Bench Press:** 3 sets of 6-8 reps - **Dumbbell Shoulder Press:** 3 sets …"
+        },
+        {
+          "query": "Good warm-up or practices before today's lift?",
+          "answer": "## Warm-Up Recommendations\nTo prepare adequately for your weightlifting session, here’s a simple warm-up routine:\n### Dynamic Stretches:\n1. Leg Swings: Forward and backward, then side-to-side. Repeat 10 times on each leg.\n2. Arm Circles: Small circles then gradually increase size. Perform 10 circles in each direction.\n3. Torso Twists: Side-to-side while keeping feet planted. Do 10 twists on each side.\n4. Jumping Jacks: Start with 10-15 reps to get your heart rate up.\n### Light Cardio:\n- Jogging in Place: 5 minutes to raise your body temperature.\n- High Knees: 5 minutes of high knees to engage your legs and core.\n### Safety Tips:\n- Start with low-intensity exercises and gradually increase intensity.\n- Pay attention to proper form to prevent injuries.\n- Listen to your body and adjust the duration and intensity based on how you feel.\n#### Next Steps:\nIf you find these exercises too easy, consider adding light resistance bands for added challenge. As you become more comfortable, you can gradually increase the difficulty and duration of your warm-up.\n#### Disclaimer:\nThis warm-up routine is designed to help prepare you for your workout but does not replace professional medical advice. Always consult with a healthcare provider for any medical concerns."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "timestamp_utc": "2025-12-15T03:13:29Z",
+  "model_ids": [
+    "Qwen/Qwen2.5-14B-Instruct-1M",
+    "Qwen/Qwen2.5-3B-Instruct"
+  ],
+  "queries": [
+    "Create a 4-day workout split for strength",
+    "I am currently 130 lbs and want to put on muscle, help me",
+    "Generate a leg-day work out for a stay-at-home period.",
+    "Good warm-up or practices before today's lift?",
+    "I am having shoulder pain while doing presses, why?"
+  ],
+  "results": {
+    "Qwen/Qwen2.5-14B-Instruct-1M": [
+      {
+        "query": "Create a 4-day workout split for strength",
+        "answer": "# 4-Day Strength Training Split for Manav\n## Warm-Up\nAlways start with a 5-10 minute dynamic warm-up.\n## Workout Plan\n### Day 1: Upper Body Push & Core\n- Barbell Bench Press: 4x6\n- Overhead Press: 4x6\n- Dips: 3x8\n- Hanging Knee Raises: 3x15\n### Day 2: Upper Body Pull & Core\n- Deadlift: 4x6\n- Bent-Over Rows: 4x8\n- Lat Pulldowns: 3x10\n- Hyperextensions: 3x15\n### Day 3: Lower Body\n- Squats: 4x6\n- Lunges: 3x10 (per leg)\n- Leg Press: 3x12\n- Calf Raises: 3x15\n### Day 4: Full Body or Core Focus\n- Clean and Press: 4x6\n- Plank: 3x1 min\n- Assisted Hanging Knee Raise: 3x12\n## Safety Tips\n- Increase weights gradually.\n- Consult a professional for pain or pre-existing conditions.\n- Maintain proper form.\n- Seek professional guidance for personalized advice.\nThis plan is not medical advice."
+      },
+      {
+        "query": "I am currently 130 lbs and want to put on muscle, help me",
+        "answer": "# Muscle Building Guidance for Manav\nWelcome, Manav! Here’s how you can safely build muscle:\n## Workout Plan Overview\nStart each session with a 5-minute warm-up like jogging. Focus on compound movements targeting major muscle groups. Aim for 3 sets of 8-12 reps per exercise.\n## Sample Routine\n- **Barbell Clean and Press:** Quads and upper body.\n- **Assisted Hanging Knee Raise:** Core muscles.\n- **Hyperextensions:** Lower back.\n- **Cool Down:** Stretch major muscle groups.\n## Safety First\n- Maintain proper form to avoid injuries.\n- Gradually increase intensity and weights.\n- Consult a professional if experiencing pain or have medical concerns.\n- Stay hydrated and eat nutritious meals.\nAlways seek professional advice before starting any new exercise program. This guidance is not medical advice. Adjust the routine as you progress and enjoy your fitness journey!"
+      },
+      {
+        "query": "Generate a leg-day work out for a stay-at-home period.",
+        "answer": "# Stay-at-Home Leg Day Workout\n## Warm-Up\n- **Walking Lunges**: 5 minutes to activate leg muscles.\n## Main Workout\n- **Squats**: 3 sets of 12 reps\n- **Deadlifts**: 3 sets of 12 reps\n- **Lunges**: 3 sets of 12 reps per leg\n- **Calf Raises**: 3 sets of 15 reps\n- **Glute Bridges**: 3 sets of 15 reps\n## Cool Down\n- Stretch major leg muscles for 5-10 minutes.\n### Tips\n- Focus on maintaining proper form to prevent injuries.\n- Gradually increase intensity as your strength improves.\n- Incorporate variety by exploring additional exercises online.\n**Disclaimer**: This workout plan is not medical advice. Always consult a fitness professional if you have any medical concerns or experience pain during exercise."
+      },
+      {
+        "query": "Good warm-up or practices before today's lift?",
+        "answer": "# Pre-Lift Preparation: Warm-Up Tips\nTo ensure a safe and effective lifting session, follow these steps:\n- **Cardiovascular Warm-Up:** Begin with 5-10 minutes of light cardio, such as jogging or cycling, to raise your heart rate.\n- **Dynamic Stretching:** Incorporate dynamic stretches like leg swings, arm circles, and torso twists to improve joint mobility and flexibility.\n- **Light Weight Sets:** Do 1-2 sets of each exercise using lighter weights to activate muscles and practice proper form.\n**Safety Reminders:**\n- Stop if you feel pain and consult a professional.\n- Increase intensity gradually to prevent overexertion.\nThis advice complements but does not replace professional medical or fitness guidance. Enjoy your workout!"
+      },
+      {
+        "query": "I am having shoulder pain while doing presses, why?",
+        "answer": "# Shoulder Pain During Presses\nShoulder pain while doing presses can stem from improper form, insufficient warm-up, muscle imbalances, or overtraining. Immediate action should include stopping the exercise if you feel sharp pain and consulting a healthcare professional for persistent discomfort.\n**Prevention Tips:**\n- **Warm up:** Thoroughly prepare your body before workouts.\n- **Correct form:** Focus on proper technique and control during presses.\n- **Strengthen stabilizers:** Work on strengthening muscles like the rotator cuff.\n- **Gradual progression:** Increase weights gradually to prevent overuse injuries.\n- **Post-workout routine:** Incorporate stretching and mobility exercises.\nAlways prioritize safety and consult a fitness professional or physical therapist for personalized guidance. They can help identify and address any underlying issues, ensuring your training remains both effective and safe. Remember, this advice is not a substitute for professional medical consultation."
+      }
+    ],
+    "Qwen/Qwen2.5-3B-Instruct": [
+      {
+        "query": "Create a 4-day workout split for strength",
+        "answer": "# 4-Day Strength Workout Plan ## Overview This 4-day workout plan is designed for Manav, a 22-year-old male with a primary goal of building strength and definition. The plan focuses on compound movements to target major muscle groups while ensuring adequate recovery. ## Weekly Schedule ### Monday: Upper Body - **Warm-Up**: Light cardio (e.g., jogging, cycling) for 5 minutes. - **Workout**: - Barbell Clean and Press: 3 sets x 5 reps - Incline Dumbbell Bench Press: 3 sets x 8 reps - Pull-Ups: 3 sets x max reps - Seated Cable Rows: 3 sets x 8 reps - Tricep Pushdowns: 3 sets x 12 reps - **Cool Down**: Stretching, foam rolling, and light walking. ### Wednesday: Lower Body - **Warm-Up**: Light cardio (e.g., jogging, cycling) for 5 minutes. - **Workout**: - Barbell Squat: 3 sets x 8 reps - Deadlift: 3 sets x 8 reps - Leg Press: 3 sets x 10 reps - Lunges: 3 sets x 10 reps per leg - Romanian Deadlift: 3 sets x 8 reps - **Cool Down**: Stretching, foam rolling, and light walking. ### Friday: Full Body - **Warm-Up**: Light cardio (e.g., jogging, cycling) for 5 minutes. - **Workout**: - Barbell Bench Press: 3 sets x 8 reps - Pull-Ups: 3 sets x max reps - Barbell Row: 3 sets x 8 reps ### …"
+      },
+      {
+        "query": "I am currently 130 lbs and want to put on muscle, help me",
+        "answer": "# Muscle Building Plan for Manav ## Goal To build muscle mass safely and effectively. ## Key Points - **Safety First:** Always prioritize your health and consult a professional if you experience any pain or discomfort. - **Balanced Diet:** Ensure you're getting adequate protein and calories to support muscle growth. - **Consistency:** Regular workouts and consistent effort are crucial for muscle gain. - **Professional Guidance:** Consider consulting a fitness professional to tailor a program to your specific needs. ## Workout Plan ### Monday: Chest and Triceps - Barbell Bench Press (3 sets of 5 reps) - Incline Dumbbell Press (3 sets of 5 reps) - Tricep Pushdown (3 sets of 8 reps) - Tricep Dips (3 sets of 8 reps) ### Wednesday: Back and Biceps - Deadlift (3 sets of 5 reps) - Pull-Ups (3 sets of 5 reps) - Barbell Rows (3 sets of 5 reps) - Hammer Curls (3 sets of 8 reps) ### Friday: Legs - Barbell Squat (3 sets of 5 reps) - Leg Press (3 sets of 5 reps) - Romanian Deadlift (3 sets of 5 reps) - Leg Extensions (3 sets of 8 reps) ### Sunday: Rest Day ## Warm-Up - Dynamic Stretching: 5-10 minutes of dynamic stretching to prepare your muscles for the workout. - Light Cardio: 5-10 minutes of light cardio to …"
+      },
+      {
+        "query": "Generate a leg-day work out for a stay-at-home period.",
+        "answer": "# Leg Day Workout Plan for Stay-At-Home Period ## Overview This workout plan is designed for Manav, a 22-year-old male, focusing on building strength and definition with exercises suitable for home use. ## Workout Routine ### Warm-Up (5 minutes) - **Dynamic Stretching**: 3 minutes of dynamic stretches like leg swings and leg circles. - **Mobility Drills**: 2 minutes focusing on hip mobility and ankle flexibility. ### Exercise List #### 1. Band Stiff-Leg Deadlift - **Muscles Targeted**: Glutes, Hamstrings, Lower Back - **Equipment Needed**: Resistance Band - **Sets/Reps**: 3 sets of 8-12 reps - **Rest**: 30 seconds between sets #### 2. Squat on Bosu Ball - **Muscles Targeted**: Quads, Glutes, Core - **Equipment Needed**: Bosu Ball - **Sets/Reps**: 3 sets of 10-15 reps - **Rest**: 30 seconds between sets #### 3. Barbell Clean and Press - **Muscles Targeted**: Quads, Hamstrings, Upper Back, Shoulders - **Equipment Needed**: Barbell - **Sets/Reps**: 3 sets of 6-8 reps - **Rest**: 60 seconds between sets #### 4. Lever Rotary Calf - **Muscles Targeted**: Calves - **Equipment Needed**: Lever Machine - **Sets/Reps**: 3 sets of 12-15 reps - **Rest**: 30 seconds between sets #### 5. Assisted Prone Lying Quad Stretch - **Muscles Targeted**: Quads - **Equipment Needed**: Assisted… **Note:** Ensure proper form and technique for all exercises to avoid injury. Always consult a healthcare provider before starting …"
+      },
+      {
+        "query": "Good warm-up or practices before today's lift?",
+        "answer": "### Warm-Up Practices Before Today's Lift\nTo prepare adequately for your strength training session, consider this basic warm-up routine:\n1. **Dynamic Stretches**:\n- Leg Swings: Swing one leg forward and backward, then side to side.\n- Arm Circles: Make large circles with arms, first forward, then backward.\n- Torso Twists: Twist from side to side while keeping knees slightly bent.\n2. **Light Cardio**:\n- Jumping Jacks\n- Walking Lunges\n3. **Focus on Core**:\n- Planks: 2-3 rounds\n### Timing:\n- Begin your warm-up 15-30 minutes before your primary workout.\n- Adjust the duration based on your personal fitness level and how you feel.\n### Safety Tips:\n- Start with lighter weights and gradually increase intensity.\n- Listen to your body; stop immediately if you experience any pain or discomfort.\nAlways ensure you have proper form and listen to your body. For more personalized guidance, consult a professional trainer."
+      },
+      {
+        "query": "I am having shoulder pain while doing presses, why?",
+        "answer": "## Shoulder Pain While Doing Presses\n### Understanding Your Pain\nShoulder pain during bench presses could be due to poor form, muscle imbalances, or overuse. Adjusting your grip, incorporating targeted exercises, and maintaining proper form can help alleviate this discomfort.\n### Recommendations\n#### Warm-Up\n- **Dynamic Stretching:** Perform arm circles and leg swings.\n- **Foam Rolling:** Spend time foam rolling your shoulders, chest, and upper back.\n#### Exercises\n- **Adjust Grip Width:** Try a neutral or slightly wider than shoulder-width grip.\n- **Rotator Cuff Strengthening:** Include lateral raises and band-resisted internal and external rotations.\n#### Technique Tips\n- **Maintain Neutral Spine:** Keep your core engaged and maintain a straight back.\n- **Control the Movement:** Focus on controlling the descent and ascent.\n- **Progress Gradually:** Increase weight or reps slowly.\n### Safety First\nAlways prioritize correct technique and seek professional guidance if you experience persistent pain. Consulting a certified fitness trainer or physical therapist can provide personalized advice."
+      }
+    ]
+  },
+  "bleu": {
+    "reference_model": "Qwen/Qwen2.5-3B-Instruct",
+    "candidate_model": "Qwen/Qwen2.5-14B-Instruct-1M",
+    "corpus_bleu": 9.151939583811341,
+    "per_query_bleu": [
+      {
+        "query": "Create a 4-day workout split for strength",
+        "score": 7.882237726525096
+      },
+      {
+        "query": "I am currently 130 lbs and want to put on muscle, help me",
+        "score": 7.145746334093439
+      },
+      {
+        "query": "Generate a leg-day work out for a stay-at-home period.",
+        "score": 8.488561327000724
+      },
+      {
+        "query": "Good warm-up or practices before today's lift?",
+        "score": 3.6506961251447887
+      },
+      {
+        "query": "I am having shoulder pain while doing presses, why?",
+        "score": 13.669666041014844
+      }
+    ]
+  }
+}
